@@ -22,3 +22,5 @@ Welcome to my first coding portfolio! This repository showcases a couple of my f
 **Description:** Code with three instance variables, one static class, a constructed, a static method, and a testing class.
 
 ### 🖥️ Project 5 🖥️: [Word Game]
+
+**Description:** Prompts the user to enter specific information to create a personalized story.
